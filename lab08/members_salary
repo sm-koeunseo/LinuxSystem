@@ -1,0 +1,12 @@
+008	Zoe		Staff		Sales		4500		zoe@macys.com
+001	Thomas		Manager		Sales		5000		thomas@gmail.com
+002	Jason		Developer	Technology	5500		jason@yahoo.com
+007	Aiden		Developer	Technology	6000		aiden@gmail.com
+005	Randy		DBA		Technology	6000		randy@oracle.com
+010	Olivia		DBA		Technology	6500		olivia@gmail.com
+003	Sanjay		Sysadmin	Technology	7000		sanj@sys.admin.com
+009	Emma		Manager		Technology	9000		emma@gmail.com
+006	John		Staff		Sales		9500		john@macys.com
+004	Nisha		Manager		Marketing	9500		nisha@gmail.com
+
+sort -k 5 members -o members_salary
